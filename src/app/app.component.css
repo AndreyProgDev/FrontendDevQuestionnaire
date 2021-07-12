@@ -1,0 +1,39 @@
+.card-position{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 50px; 
+}
+
+.card-content{
+    width: 30%;
+    padding-left: 3%;
+    padding-right: 3%;
+}
+
+.column-display{
+    display: flex;
+    flex-direction: column;
+}
+
+.hobby-dur-input{
+    width: 33.333%;
+}
+
+.hobby-dur-add-butt{
+    width: 35%;
+}
+
+.submit-butt{
+    width: 35%;
+    margin-top: 5%;
+}
+
+.hobby-text-size{
+    font-size: 17px;
+}
+
+.spinner-margin{
+    margin-top: 5%;
+    margin-left: 5%;
+}
